@@ -1,2 +1,2 @@
-DATABASE_NAME = "ineuron"
-COLLECTION_NAME = "sensor"
+DATABASE_NAME = "kafka_storage"
+COLLECTION_NAME = "kafka_sensor_data"
